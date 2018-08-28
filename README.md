@@ -1,1 +1,1 @@
-# forestrycms-hugo
+## Hugo Site Generator with Forestry CMS
